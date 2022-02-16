@@ -41,6 +41,4 @@
 
 <img src="../.github/mario.png" width="80px" align="right" hspace="1px" vspace="1px"  alt="Mario"/>
 
----
-
 Made with 🖤 by [jlenon7](https://github.com/jlenon7) :wave:
