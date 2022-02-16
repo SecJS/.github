@@ -28,6 +28,6 @@
   </a>
 </p>
 
-<img src="../.github/mario.png" width="100px" align="right" hspace="1px" vspace="1px"  alt="Mario"/>
+<img src="../.github/mario.png" width="80px" align="right" hspace="1px" vspace="1px"  alt="Mario"/>
 
 <h3>With love 💙</h3>
