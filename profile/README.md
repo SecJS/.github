@@ -12,7 +12,7 @@
     <img alt="Commitizen" src="https://img.shields.io/badge/commitizen-friendly-brightgreen?style=for-the-badge&logo=appveyor" />
 </p>
 
-### Social
+## Social
 
 <p>
   <a href="https://www.instagram.com/lenonsec/" target="_blank">
@@ -28,10 +28,8 @@
   </a>
 </p>
 
-<br />
+---
 
-<img src="../.github/mario.png" width="80px" align="right" hspace="1px" vspace="1px" />
+<img src="../.github/mario.png" width="1184" align="right" hspace="1px" vspace="1px"  alt="Mario"/>
 
 <h3>With love 💙</h3>
-
----
