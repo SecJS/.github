@@ -1,12 +1,41 @@
-## Hi there 👋
+# SecJS 📙
 
-<!--
+> SecJS is a organization that focus on small focused solutions/modules for any type of Node.js application.
 
-**Here are some ideas to get you started:**
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=secjs.visitor-badge)](https://github.com/secjs)
+[![GitHub followers](https://img.shields.io/github/followers/jlenon7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jlenon7?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/secjs/.github.svg?style=social&label=Star&maxAge=2592000)](https://github.com/secjs/.github/stargazers/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p>
+    <a href="https://www.buymeacoffee.com/secjs" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SecJS&show_icons=true&theme=dracula&locale=en" alt="SecJS" width="400px" align="right" hspace="30px" vspace="40px"/>
+
+<p>
+  <p>
+  <a href="https://www.instagram.com/lenonsec/" target="_blank">
+    <img align="center" src="./.github/icons/instagram.svg" alt="jlenon7" height="30" width="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-lenon-873480194/" target="_blank">
+    <img align="center" src="./.github/icons/linkedin.svg" alt="jlenon7" height="30" width="40" />
+  </a>
+
+  <a href="mailto:lenonSec7@gmail.com?subject=Hello%20again" target="_blank">
+    <img align="center" src="./.github/icons/gmail.svg" alt="jlenon7" height="30" width="40" />
+  </a>
+    
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge&logo=appveyor">
+
+  <img alt="Commitizen" src="https://img.shields.io/badge/commitizen-friendly-brightgreen?style=for-the-badge&logo=appveyor">
+  </p>
+</p>
+
+<br>
+
+<img src="./.github/mario.png" width="80px" align="left" hspace="1px" vspace="1px">
+
+<h3>With love 💙</h3>
+
+---
