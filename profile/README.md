@@ -19,27 +19,27 @@
 
 <p>
   <a href="https://www.instagram.com/lenonsec/" target="_blank">
-    <img align="center" src="../.github/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-lenon-873480194/" target="_blank">
-    <img align="center" src="../.github/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
   <a href="mailto:lenonSec7@gmail.com?subject=Hello%20again" target="_blank">
-    <img align="center" src="../.github/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 
   <a href="https://twitter.com/lenonsec7" target="_blank">
-    <img align="center" src="../.github/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img align="center" src="icons/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 
   <a href="https://join.slack.com/t/athenna-workspace/shared_invite/zt-12m729t01-qv7iD0eFdyQWS9mhSfCSmQ" target="_blank">
-    <img align="center" src="../.github/icons/slack.svg" alt="Twitter" height="30" width="40" />
+    <img align="center" src="icons/slack.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
 
-<img src="../.github/mario.png" width="80px" align="right" hspace="1px" vspace="1px"  alt="Mario"/>
+<img src="mario.png" width="80px" align="right" hspace="1px" vspace="1px"  alt="Mario"/>
 
 <br/>
 
