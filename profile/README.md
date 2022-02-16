@@ -1,6 +1,6 @@
 # SecJS 📙
 
-> SecJS is a organization that focus on small focused solutions/modules for any type of Node.js application.
+> SecJS is an organization that focus on small focused solutions/modules for any type of Node.js application.
 
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=secjs.visitor-badge)](https://github.com/secjs)
 [![GitHub followers](https://img.shields.io/github/followers/jlenon7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jlenon7?tab=followers)
@@ -13,28 +13,26 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SecJS&show_icons=true&theme=dracula&locale=en" alt="SecJS" width="400px" align="right" hspace="30px" vspace="40px"/>
 
 <p>
-  <p>
   <a href="https://www.instagram.com/lenonsec/" target="_blank">
-    <img align="center" src="./.github/icons/instagram.svg" alt="jlenon7" height="30" width="40" />
+    <img align="center" src="../.github/icons/instagram.svg" alt="jlenon7" height="30" width="40" />
   </a>
 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-lenon-873480194/" target="_blank">
-    <img align="center" src="./.github/icons/linkedin.svg" alt="jlenon7" height="30" width="40" />
+    <img align="center" src="../.github/icons/linkedin.svg" alt="jlenon7" height="30" width="40" />
   </a>
 
   <a href="mailto:lenonSec7@gmail.com?subject=Hello%20again" target="_blank">
-    <img align="center" src="./.github/icons/gmail.svg" alt="jlenon7" height="30" width="40" />
+    <img align="center" src="../.github/icons/gmail.svg" alt="jlenon7" height="30" width="40" />
   </a>
-    
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge&logo=appveyor">
 
-  <img alt="Commitizen" src="https://img.shields.io/badge/commitizen-friendly-brightgreen?style=for-the-badge&logo=appveyor">
-  </p>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge&logo=appveyor" />
+
+  <img alt="Commitizen" src="https://img.shields.io/badge/commitizen-friendly-brightgreen?style=for-the-badge&logo=appveyor" />
 </p>
 
-<br>
+<br />
 
-<img src="./.github/mario.png" width="80px" align="left" hspace="1px" vspace="1px">
+<img src="../.github/mario.png" width="80px" align="left" hspace="1px" vspace="1px" />
 
 <h3>With love 💙</h3>
 
