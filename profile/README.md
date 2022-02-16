@@ -30,6 +30,6 @@
 
 ---
 
-<img src="../.github/mario.png" width="1184" align="right" hspace="1px" vspace="1px"  alt="Mario"/>
+<img src="../.github/mario.png" width="200" align="right" hspace="1px" vspace="1px"  alt="Mario"/>
 
 <h3>With love 💙</h3>
